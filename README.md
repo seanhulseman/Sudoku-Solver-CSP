@@ -1,5 +1,5 @@
 # Sudoku Solver (CSP-based Backtracking)
-## Sean Hulseman, CS131, November 2024
+## Sean Hulseman, November 2024
 This project is a Sudoku solver that uses a backtracking algorithm to solve Sudoku puzzles. The solver implements constraint satisfaction problem (CSP) principles, ensuring that the puzzle adheres to the fundamental rules of Sudoku, such as:
 
 - Each row must contain the digits 1 through 9 without repetition.

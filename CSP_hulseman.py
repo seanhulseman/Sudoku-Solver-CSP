@@ -1,4 +1,4 @@
-# CSP Sudoku Solver. Sean Hulseman. CS131, Tufts
+# CSP Sudoku Solver. Sean Hulseman.
 def print_grid(grid):
     """Print the Sudoku grid."""
     for row in grid:
